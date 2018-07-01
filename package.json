@@ -1,0 +1,22 @@
+{
+  "name": "dp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flinhong/dp.git"
+  },
+  "author": "Frank Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flinhong/dp/issues"
+  },
+  "homepage": "https://github.com/flinhong/dp#readme"
+}
